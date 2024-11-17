@@ -1,16 +1,18 @@
 # E-Canteen
 
-<!-- Homepage Image -->
-<img src="assets/homepage.jpg" alt="Homepage" width="500" />
+<!-- First Row of Images -->
+<div style="display: flex; justify-content: space-between;">
+  <img src="assets/homepage.jpg" alt="Homepage" width="500" />
+  <img src="assets/adminscreen.jpg" alt="Admin Screen" width="500" />
+</div>
 
-<!-- Admin Screen Image -->
-<img src="assets/adminscreen.jpg" alt="Admin Screen" width="500" />
+<!-- Second Row of Images -->
+<div style="display: flex; justify-content: space-between;">
+  <img src="assets/userscreen.jpg" alt="User Screen" width="500" />
+  <img src="assets/adminorderscreen.jpg" alt="Admin Order Screen" width="500" />
+</div>
 
-<!-- User Screen Image -->
-<img src="assets/userscreen.jpg" alt="User Screen" width="500" />
-
-<!-- Admin Order Screen Image -->
-<img src="assets/adminorderscreen.jpg" alt="Admin Order Screen" width="500" />
-
-<!-- User Order Screen Image -->
-<img src="assets/userorderscreen.jpg" alt="User Order Screen" width="500" />
+<!-- Third Row of Images -->
+<div style="display: flex; justify-content: space-between;">
+  <img src="assets/userorderscreen.jpg" alt="User Order Screen" width="500" />
+</div>
