@@ -1,10 +1,16 @@
 # E-Canteen
-![Alt text](assets/homepage.jpg)
-![Alt text](assets/adminscreen.jpg)
 
-![Alt text](assets/userscreen.jpg)
+<!-- Homepage Image -->
+<img src="assets/homepage.jpg" alt="Homepage" width="500" />
 
-![Alt text](assets/adminorderscreen.jpg)
+<!-- Admin Screen Image -->
+<img src="assets/adminscreen.jpg" alt="Admin Screen" width="500" />
 
-![Alt text](assets/userorderscreen.jpg)
+<!-- User Screen Image -->
+<img src="assets/userscreen.jpg" alt="User Screen" width="500" />
 
+<!-- Admin Order Screen Image -->
+<img src="assets/adminorderscreen.jpg" alt="Admin Order Screen" width="500" />
+
+<!-- User Order Screen Image -->
+<img src="assets/userorderscreen.jpg" alt="User Order Screen" width="500" />
