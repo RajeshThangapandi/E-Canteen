@@ -1,2 +1,2 @@
 # E-Canteen
-![Alt text](assets/homescreen.jpg)
+![Alt text](assets/homepage.jpg)
